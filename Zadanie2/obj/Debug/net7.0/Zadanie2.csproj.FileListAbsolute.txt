@@ -1,0 +1,15 @@
+C:\Users\prove\OneDrive\Рабочий стол\Damashnee Zadanie\DZ8\Zadanie2\obj\Debug\net7.0\Zadanie2.csproj.AssemblyReference.cache
+C:\Users\prove\OneDrive\Рабочий стол\Damashnee Zadanie\DZ8\Zadanie2\obj\Debug\net7.0\Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prove\OneDrive\Рабочий стол\Damashnee Zadanie\DZ8\Zadanie2\obj\Debug\net7.0\Zadanie2.AssemblyInfoInputs.cache
+C:\Users\prove\OneDrive\Рабочий стол\Damashnee Zadanie\DZ8\Zadanie2\obj\Debug\net7.0\Zadanie2.AssemblyInfo.cs
+C:\Users\prove\OneDrive\Рабочий стол\Damashnee Zadanie\DZ8\Zadanie2\obj\Debug\net7.0\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\prove\OneDrive\Рабочий стол\Damashnee Zadanie\DZ8\Zadanie2\bin\Debug\net7.0\Zadanie2.exe
+C:\Users\prove\OneDrive\Рабочий стол\Damashnee Zadanie\DZ8\Zadanie2\bin\Debug\net7.0\Zadanie2.deps.json
+C:\Users\prove\OneDrive\Рабочий стол\Damashnee Zadanie\DZ8\Zadanie2\bin\Debug\net7.0\Zadanie2.runtimeconfig.json
+C:\Users\prove\OneDrive\Рабочий стол\Damashnee Zadanie\DZ8\Zadanie2\bin\Debug\net7.0\Zadanie2.dll
+C:\Users\prove\OneDrive\Рабочий стол\Damashnee Zadanie\DZ8\Zadanie2\bin\Debug\net7.0\Zadanie2.pdb
+C:\Users\prove\OneDrive\Рабочий стол\Damashnee Zadanie\DZ8\Zadanie2\obj\Debug\net7.0\Zadanie2.dll
+C:\Users\prove\OneDrive\Рабочий стол\Damashnee Zadanie\DZ8\Zadanie2\obj\Debug\net7.0\refint\Zadanie2.dll
+C:\Users\prove\OneDrive\Рабочий стол\Damashnee Zadanie\DZ8\Zadanie2\obj\Debug\net7.0\Zadanie2.pdb
+C:\Users\prove\OneDrive\Рабочий стол\Damashnee Zadanie\DZ8\Zadanie2\obj\Debug\net7.0\Zadanie2.genruntimeconfig.cache
+C:\Users\prove\OneDrive\Рабочий стол\Damashnee Zadanie\DZ8\Zadanie2\obj\Debug\net7.0\ref\Zadanie2.dll
